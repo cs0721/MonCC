@@ -1,0 +1,6 @@
+Vivien Leigh,Vivien,Reviewer,Lecturer,vivien@gmail.com,secret,IT
+Robert Pattinson,Dracula,Reviewer,Scientist,pattinson@gmail.com,password,Technology
+Sam Worthington,Worth,Reviewer,Software Engineer,sam@news.com,words,IT
+Samantha,Mantha,Reviewer,Chef,sam133@gmail.com,pas,IT
+Sugar,Sugar,Reviewer,Software Engineer,sam@news.com,words,IT
+Malia,Malia,Reviewer,Sous Chef,sam@news.com,words,Food

@@ -1,0 +1,3 @@
+James Cameron,James,Chair,Director,cameron@news.com,passme
+Sam Worthington,Sam,Chair,CEO,sam@news.com,passme
+Zoe Saldana,Zoe13,Chair,COO,saldana@news.com,minesecret

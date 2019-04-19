@@ -1,0 +1,3 @@
+Cloud Storage,IT,Meeting Room,CEO,James Cameron,20,12,2017,30,12,2017
+Next Product Launching,Technology,Ball Room,COO,Sam Worthington,20,03,2017,30,03,2017
+Junk Food,Food,Room A,Food Manager,James Cameron,20,11,2017,30,11,2017

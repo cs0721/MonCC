@@ -1,0 +1,3 @@
+Clark Gable,Clark,Author,Editor,clark@gmail.com,passw0r
+Kristen Stewart,Stew,Author,Treasurer,stew@news.com,s3cr3t
+Bill Condon,Condon,Author,Writer,condor@news.com,passme
